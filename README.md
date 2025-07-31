@@ -197,6 +197,6 @@ All work is conducted openly on GitHub. Whether you are a core team member or an
     <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/sponsor.webp" width=620/>
  </p>
 
-## Star History
+<!-- ## Star History -->
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Sjj1024/PakePlus,Sjj1024/PakePlus-iOS,Sjj1024/PakePlus-Android&type=Date)](https://www.star-history.com/#Sjj1024/PakePlus&Sjj1024/PakePlus-iOS&Sjj1024/PakePlus-Android&Date)
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=Sjj1024/PakePlus,Sjj1024/PakePlus-iOS,Sjj1024/PakePlus-Android&type=Date)](https://www.star-history.com/#Sjj1024/PakePlus&Sjj1024/PakePlus-iOS&Sjj1024/PakePlus-Android&Date) -->
